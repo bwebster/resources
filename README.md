@@ -1,3 +1,3 @@
 # Resources
 
-Source code behind (https://bwebster.github.io/resources/)[bwebster.github.io/resources].
+Source code behind [bwebster.github.io/resources](https://bwebster.github.io/resources/).
