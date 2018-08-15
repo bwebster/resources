@@ -1,3 +1,3 @@
 ## Welcome
 
-- My [Manager README](manager-readme.md)
+- My [Manager README](manager-readme)
