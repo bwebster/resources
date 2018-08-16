@@ -4,8 +4,6 @@
 
 So, what is this anyway?  It's my attempt at helping you understand what's important to me, what I expect of you, and the ways I'll be working _for you_.
 
-This is a living, breathing document.  In some ways it's also a bit aspirational.  If I'm not actively living what's written here, please tell me!
-
 ## My Job
 
 At a minimum my job is to
@@ -47,7 +45,11 @@ I will strive to give timely feedback whenever possible.
 
 Acting on every bit of feedback is not necessary.  Instead, process it and decide for yourself which bits of feedback need action.
 
-Giving difficult feedback is a challenge for me, and something I'm actively working on.  I'm still learning how to to it in a non-awkward fashion.
+Giving difficult feedback is a challenge for me, and something I'm actively working on.  I'm still learning how to to it in a non-awkward fashion.  Feedback on how I'm giving you feedback is greatly appreciated.
+
+## Things I'm Working Towards
+
+Here are the things I'm working on right now, as of Aug 2018.
 
 ### Performance
 
@@ -59,6 +61,8 @@ I follow a green/orange/red system.  If I haven't told you otherwise, you are in
 
 **Red**: There is a significant problem that won't be tollerated for much longer.  You need to identify a series of steps, and a timeframe, to get it fixed.  We will talk about and agree on both of these.
 
+
 ---
 
 _This was inspired by [many engineering leaders](https://svnk.github.io/manager-READMEs/) that are much further down the road than I am, and who I aspire to be like._
+
