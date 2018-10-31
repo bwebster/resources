@@ -2,7 +2,9 @@
 
 ## What I Value
 **Honesty** - I will be honest with you, and I expect the same.  Dishonestly will quickly erode our trust.
+
 **Humility** - We are all smart, but there is always something more we can learn _from those around us_.
+
 **Kindness** - As Rands says, [Be Unfailingly Kind](http://randsinrepose.com/archives/be-unfailingly-kind/).
 
 ## Availability
@@ -26,7 +28,9 @@ My goal is that we are always on the same page regarding your performance.  If y
 I work on a green/orange/red system.  If I haven't told you otherwise, you are in the green.
 
 **Green** - You're doing good, great, exceptional. There still might be areas of improvement, but you're getting the job done and working well with your team.
+
 **Orange** - There are one or more things that, if not improved, are unsustainable.
+
 **Red** - There is a significant problem that won't be tollerated for much longer. You need to identify a series of steps, and a timeframe, to get it fixed. We will talk about and agree on both of these.
 
 -- 
