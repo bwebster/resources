@@ -13,7 +13,7 @@ My schedule is typically busy, but I will always make time to talk.
 All I need is your best 40 hours. I don't want any more than that. When you are not working, enjoy your life outside of work. This includes taking vacations and days off frequently.
 
 ## One-on-ones (1:1)
-I like to have weekly 1:1s that are at least 30 minutes long.  1:1s are the most important thing I do each week.  I will never cancel, and rarely reschedule our 1:1, unless we are both out on a given week.
+I like to have weekly 1:1s that are at least 30 minutes long.  1:1s are the most important thing I do each week.  I will never cancel and rarely reschedule our 1:1, unless one of us is out for the week.
 
 I prefer 1:1s to be driven by you.  Come prepared to talk about the things that are most important to you.  I like it when the topics aren't status updates (we have Jira for that), but will happily talk about status if that's what you want to talk about.  Instead, I really like to talk about the deeper stuff - the stuff you'd be afraid to say if you knew others were listening.
 
