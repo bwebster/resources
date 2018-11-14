@@ -17,7 +17,7 @@ I like to have weekly 1:1s that are at least 30 minutes long.  1:1s are the most
 
 I will setup our 1:1 on the calendar so that you can modify it.  If you need to move it to a time that's better for you, please do.
 
-I prefer 1:1s to be driven by you.  Come prepared to talk about the things that are most important to you.  I like it when the topics aren't status updates (we have Jira for that), but will happily talk about status if that's what you want to talk about.  Instead, I really like to talk about the deeper stuff - the stuff you'd be afraid to say if you knew others were listening.
+I prefer 1:1s to be driven by you.  Come prepared to talk about the things that are most important to you.  I like it when the topics aren't status updates (we have Jira, standups, etc. for that), but will happily talk about status if that's what you want to talk about.  Instead, I really like to talk about the deeper stuff - the stuff you'd be afraid to say if you knew others were listening.
 
 ## Feedback
 Feedback is a huge part of growing, as an individual as well as a professional.  I will seek to give you timely feedback, and have found the [situation-behavior-impact](https://www.radicalcandor.com/blog/give-humble-feedback/) model to be very effective.
