@@ -15,6 +15,8 @@ All I need is your best 40 hours. I don't want any more than that. When you are 
 ## One-on-ones (1:1)
 I like to have weekly 1:1s that are at least 30 minutes long.  1:1s are the most important thing I do each week.  I will never cancel and rarely reschedule our 1:1, unless one of us is out for the week.
 
+I will setup our 1:1 on the calendar so that you can modify it.  If you need to move it to a time that's better for you, please do.
+
 I prefer 1:1s to be driven by you.  Come prepared to talk about the things that are most important to you.  I like it when the topics aren't status updates (we have Jira for that), but will happily talk about status if that's what you want to talk about.  Instead, I really like to talk about the deeper stuff - the stuff you'd be afraid to say if you knew others were listening.
 
 ## Feedback
