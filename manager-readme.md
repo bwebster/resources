@@ -53,6 +53,7 @@ I work on a green/orange/red system.  If I haven't told you otherwise, you are i
 ## What Frustrates Me
 I have a strong bias towards action.  I'm happy to brainstorm ideas and solutions, but at some point I will get frustrated if we don't pick a path forward and try it.  I think the best way to learn is to try, and the best way to imporove is through small steps.
 
+Speaking poorly about others.  We all have bad days; we all have a story that has shaped who we are; we are all imperfect.  We should value each other as human beings and embrace and celebrate our diversity and differences.
 
 -- 
 
