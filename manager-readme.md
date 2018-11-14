@@ -19,6 +19,8 @@ I will setup our 1:1 on the calendar so that you can modify it.  If you need to 
 
 I prefer 1:1s to be driven by you.  Come prepared to talk about the things that are most important to you.  I like it when the topics aren't status updates (we have Jira, standups, etc. for that), but will happily talk about status if that's what you want to talk about.  Instead, I really like to talk about the deeper stuff - the stuff you'd be afraid to say if you knew others were listening.
 
+My goal in 1:1s is to collect as much signal as I can.  I approach this by asking a lot of questions.  I then process all the signals and look for the most important thing I can work on changing.
+
 ## Feedback
 Feedback is a huge part of growing, as an individual as well as a professional.  I will seek to give you timely feedback, and have found the [situation-behavior-impact](https://www.radicalcandor.com/blog/give-humble-feedback/) model to be very effective.
 
