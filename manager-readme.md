@@ -9,7 +9,7 @@ As a Director of Enginering at Kapost, my job is to
 
 I work to build deep, trusting relationships with the members of my team.  I care about you as a person just as much as I care about the work you're doing.  
 
-I try to never micro-manage by telling you what to do, or how to do it.  I'm happy to share my opinions, but I default to asking questions to help guide your thinking.  I've heard it said that people need to hear things up to 7 times before they will truely undertand what is being said.  So, you'll probably hear me repeating things.  This is my attempt to share context and priority instead of micro-manage.
+I try to never micro-manage by telling you what to do, or how to do it.  I'm happy to share my opinions, but I default to asking questions to help guide your thinking.  I've heard it said that people need to hear things up to 7 times before they will really undertand what is being said.  So, you'll probably hear me repeating things.  This is my attempt to share context and priority instead of micro-manage.
 
 If something is blocking you from doing your best work, please tell me.  If I can do something to help you do your best work, please tell me.  If you don't like the work you're doing, please tell me.  I can't fix what I don't know.  
 
