@@ -39,6 +39,8 @@ Feedback is a huge part of growing, as an individual as well as a professional. 
 
 Acting on every bit of feedback you receive isn't necessary.  Instead process it, and decide for yourself when and how to implement changes.  If I think feedback needs to be acted on immediately, I will tell you.
 
+I believe that I am probably wrong, most of the time.  I am okay being told, or discovering, that I was wrong.  I try to create an environment where it's okay to be wrong, to fail, to make mistakes.  This is how we grow.
+
 ## Performance
 My goal is that we are always on the same page regarding your performance.  If you feel unsure, please ask!
 
