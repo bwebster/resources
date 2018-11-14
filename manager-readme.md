@@ -7,7 +7,7 @@ As a Director of Enginering at Kapost, my job is to
 - Provide context and priority
 - Remove roadblocks so that you can do your best work
 
-I work to build deep, trusting relationships with the members of my team.  I care about you as a person just as much as I care about the work you're producing.  
+I work to build deep, trusting relationships with the members of my team.  I care about you as a person just as much as I care about the work you're doing.  
 
 I try to never micro-manage by telling you what to do, or how to do it.  I'm happy to share my opinions, but I default to asking questions to help guide your thinking.  I've heard it said that people need to hear things up to 7 times before they will truely undertand what is being said.  So, you'll probably hear me repeating things.  This is my attempt to share context and priority instead of micro-manage.
 
