@@ -44,7 +44,7 @@ I believe that I am probably wrong, most of the time.  I am okay being told, or 
 ## Performance
 My goal is that we are always on the same page regarding your performance.  If you feel unsure, please ask!
 
-I work on a green/yello/red system.  If I haven't told you otherwise, you are in the green.
+I work on a green/yellow/red system.  If I haven't told you otherwise, you are in the green.
 
 **Green** - You're doing good, great, exceptional. There still might be areas of improvement, but you're getting the job done and working well with your team.
 
