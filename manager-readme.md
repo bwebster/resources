@@ -44,11 +44,11 @@ I believe that I am probably wrong, most of the time.  I am okay being told, or 
 ## Performance
 My goal is that we are always on the same page regarding your performance.  If you feel unsure, please ask!
 
-I work on a green/orange/red system.  If I haven't told you otherwise, you are in the green.
+I work on a green/yello/red system.  If I haven't told you otherwise, you are in the green.
 
 **Green** - You're doing good, great, exceptional. There still might be areas of improvement, but you're getting the job done and working well with your team.
 
-**Orange** - There are one or more things that, if not improved, are unsustainable.
+**Yellow** - There are one or more things that, if not improved, are unsustainable.
 
 **Red** - There is a significant problem that won't be tollerated for much longer. You need to identify a series of steps, and a timeframe, to get it fixed. We will talk about and agree on both of these, in writing, and will likely involve HR in the process.
 
